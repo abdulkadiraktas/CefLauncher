@@ -1,4 +1,5 @@
-array  (
+<?php
+    $langu = array  (
         "serverinfo"                =>  "Sunucu Bilgileri",
         "serverinfodetailed"        =>  "Bu alana sunucunuz ile alakalı bilgileri girin!",
         "servername"                =>  "Sunucu Adı",
@@ -48,4 +49,5 @@ array  (
         "savedannontitle"           =>  "Duyuru Başlığı",
         "savedannondetail"          =>  "Duyuru İçeriği",
         "savedannonoperation"       =>  "İşlem"
-    )
+    );
+?>

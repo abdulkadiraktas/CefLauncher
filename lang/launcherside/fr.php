@@ -1,6 +1,6 @@
 <?php
     $langu = array  (
-        "adnotfy" => "Si le bouton Connexion au serveur n'apparaît pas, veuillez cliquer sur l'annonce ci-dessous. Si l'annonce n'est pas affichée, actualisez la page<a href=''> here </a>",
+        "adnotfy" => "Si le bouton Connexion au serveur n'apparaît pas, veuillez cliquer sur l'annonce ci-dessous. Si l'annonce n'est pas affichée, actualisez la page <a onClick=\"urlOpen('refresh',' ')\"  style=\"color: red !important;\"> here </a>",
         "tanitim" => "Voir l'intro",
         "steamname" => "Nom Steam :",
         "steamUsername" => "Nom du compte steam :",

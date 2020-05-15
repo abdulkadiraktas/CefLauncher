@@ -1,0 +1,12 @@
+{
+  "fivemCheckMessageTitle": "FiveM Checker",
+  "fivemCheckMessage": "The launcher will close because you are not logged into the server within 1 minute.",
+  "adsFroward": "You will be redirected shortly after the advertisement page ... Please wait for redirect ...",
+  "gtaFound":"GTA Found!",
+  "steamFound":"Steam Found!",
+  "fivemFound":"FiveM Found!",
+  "exitMessage":"Are you sure you want to close the program? If you close the program, your FiveM connection will be closed.",
+  "exitMessageTitle": "Are you sure?",
+  "searchFilesNotify":"Scanning GTA, Stem and Fivem file locations ...",
+  "searchFilesTitleNotify":"Files scaning..."
+}
