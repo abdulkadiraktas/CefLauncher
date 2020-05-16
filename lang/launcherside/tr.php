@@ -5,7 +5,7 @@
         "steamname" => "Steam Adı :",
         "steamUsername" => "Kullanıcı Adı",
         "gta5lock" => "GTA 5 Dosya Konumu :",
-        "fiveMlock" => "FiveM Dosya Konumu : :",
+        "fiveMlock" => "FiveM Dosya Konumu :",
         "steamlock" => "Steam Dosya Konumu :",
         "change" => "Değiştir",
         "login" => "Sunucuya Giris Yap",
@@ -13,4 +13,4 @@
         "settings" => "Ayarlar",
         "loading" => "Yükleniyor"
     );
-?>
+?> 

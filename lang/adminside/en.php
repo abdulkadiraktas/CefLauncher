@@ -48,6 +48,19 @@
         "savedannontext"            =>  "Sisteme önceden kayıt ettiğiniz duyuruları görüntüleyip istediğiniz duyuruyu kaldırabilirsiniz.",
         "savedannontitle"           =>  "Duyuru Başlığı",
         "savedannondetail"          =>  "Duyuru İçeriği",
-        "savedannonoperation"       =>  "İşlem"
+        "savedannonoperation"       =>  "İşlem",
+        "selecttheme"               =>  "Tema Seçin",
+        "selectedtheme"             =>  "Seçilen tema",
+        "staticimage"               =>  "Statik Arka Plan",
+        "video"                     =>  "Video Arka Plan",
+        "steamtheme"                =>  "Steam Uyumlu Tema",
+        "hackname"                  =>  "Hile Adı",
+        "hash"                      =>  "Hash Değeri",
+        "process"                   =>  "İşlem",
+        "delete"                    =>  "sil",
+        "processdel"                =>  "İşlem Yapılamaz",
+        "detailnote"                =>  "Dosyanın indirileceği konumu girin. Harita Sorunu İçin Örnek : AppData\Local\FiveM\FiveM.app\citizen\common\data\ui",
+        "filename"                  =>  "Dosya Adı",
+        "downloadlocation"          =>  "İndirileceği Konum"
     );
 ?>
