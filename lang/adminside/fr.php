@@ -61,6 +61,17 @@
         "processdel"                =>  "İşlem Yapılamaz",
         "detailnote"                =>  "Dosyanın indirileceği konumu girin. Harita Sorunu İçin Örnek : AppData\Local\FiveM\FiveM.app\citizen\common\data\ui",
         "filename"                  =>  "Dosya Adı",
-        "downloadlocation"          =>  "İndirileceği Konum"
+        "downloadlocation"          =>  "İndirileceği Konum",
+        "mainPageTitle"             =>  "Launcher Web Panel",
+        "messages"                  =>  "Mesajlar",
+        "showall"                   =>  "Tümünü Görüntüle",
+        "notifycation"              =>  "Bildirimler",
+        "changethemplate"           =>  "Temayı Değiştir",
+        "onlineUsers"               =>  "Launcher'da Aktif Kişi Sayısı : ",
+        "index"                     =>  "Ana Sayfa",
+        "fivemFiles"                =>  "FiveM Dosyaları",
+        "hackFiles"                 =>  "Hileler",
+        "logout"                    =>  "Çıkış Yap",
+        "qrnotify"                  =>  "Mobil uygulamada oturum açmak için QR kodu kullanabilirsin"
     );
 ?>
