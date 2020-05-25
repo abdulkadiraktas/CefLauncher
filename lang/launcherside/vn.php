@@ -11,6 +11,11 @@
         "login" => "Đăng nhập vào Server",
         "update" => "Tải phiên bản hiện tại",
         "settings" => "Cài đặt",
-        "loading" => "Đang tải"
+        "loading" => "Đang tải",
+        "tanitim" => "Xem video",
+        "news"    => "News",
+        "up"    => "UP",
+        "warning" => "Uyarı!",
+        "warningNotify" => "Bu sunucudan süresiz olarak uzaklaştırıldın!<br> Ceza nedeni : "
     );
 ?>

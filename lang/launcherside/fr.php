@@ -11,7 +11,11 @@
         "login" => "Se connectez au serveur",
         "update" => "Télécharger la version actuelle",
         "settings" => "Paramètre",
-        "loading" => "Chargement"
+        "loading" => "Chargement",
+        "news"    => "News",
+        "up"    => "UP",
+        "warning" => "Uyarı!",
+        "warningNotify" => "Bu sunucudan süresiz olarak uzaklaştırıldın!<br> Ceza nedeni : "
     );
 ?>
  

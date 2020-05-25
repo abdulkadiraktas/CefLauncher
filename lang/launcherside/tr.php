@@ -11,6 +11,11 @@
         "login" => "Sunucuya Giris Yap",
         "update" => "Güncel Sürümü İndir",
         "settings" => "Ayarlar",
-        "loading" => "Yükleniyor"
+        "loading" => "Yükleniyor",
+        "tanitim" => "Tanıtımı Oynat",
+        "news"    => "Haberler",
+        "up"    => "Yukarı",
+        "warning" => "Uyarı!",
+        "warningNotify" => "Bu sunucudan süresiz olarak uzaklaştırıldın!<br> Ceza nedeni : "
     );
 ?> 

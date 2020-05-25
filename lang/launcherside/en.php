@@ -11,7 +11,12 @@
         "login" => "Login to Server",
         "update" => "Download Current Version",
         "settings" => "Settings",
-        "loading" => "Loading"
+        "loading" => "Loading",
+        "tanitim" => "Tanıtımı Oynat",
+        "news"    => "News",
+        "up"    => "UP",
+        "warning" => "Warning!",
+        "warningNotify" => "You have been permanently banned from this server! <br> Reason:"
     );
 ?>
  
