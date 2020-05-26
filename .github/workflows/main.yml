@@ -36,6 +36,6 @@ jobs:
       with:
         filename: deneme.zip # default is release.zip
       # Base path for archive files
-        path: / # optional, default is .
+        path: /db # optional, default is .
       # Working directory before zipping
         directory: /db # optional, default is .
