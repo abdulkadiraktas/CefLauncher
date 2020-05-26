@@ -31,11 +31,12 @@ jobs:
       run: |
         echo Add other actions to build,
         echo test, and deploy your project.
-    - name: Zip Release
-      uses: TheDoctor0/zip-release@v0.3.0
+    - name: Easy Zip Files
+      uses: papeloto/action-zip@v1
       with:
-        filename: deneme.zip # default is release.zip
-      # Base path for archive files
-        path: /db # optional, default is .
-      # Working directory before zipping
-        directory: /db # optional, default is .
+        # Files or directories to zip
+        files: db
+        # Name of output zip file
+        dest: db.zip # optional, default is result.zip
+        # Whether to add subdirectories to simply zip all files to the root
+        recursive: true # optional, default is true
