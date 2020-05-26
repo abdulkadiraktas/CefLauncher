@@ -35,7 +35,7 @@ jobs:
       uses: papeloto/action-zip@v1
       with:
         # Files or directories to zip
-        files: db
+        files: db/
         # Name of output zip file
         dest: db.zip # optional, default is result.zip
         # Whether to add subdirectories to simply zip all files to the root
