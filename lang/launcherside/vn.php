@@ -16,6 +16,7 @@
         "news"    => "News",
         "up"    => "UP",
         "warning" => "Uyarı!",
-        "warningNotify" => "Bu sunucudan süresiz olarak uzaklaştırıldın!<br> Ceza nedeni : "
+        "warningNotify" => "Bu sunucudan süresiz olarak uzaklaştırıldın!<br> Ceza nedeni : ",
+        "social"        => "Sosyal Medya"
     );
 ?>

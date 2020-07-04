@@ -2,8 +2,8 @@
     $langu = array  (
         "adnotfy" => "If the Login to Server button does not appear, please click on the ad below. If the ad is not displayed, refresh the page <a onClick=\"urlOpen('refresh',' ')\"  style=\"color: red !important;\"> here </a>",
         "tanitim" => "Play Intro",
-        "steamname" => "Steam Name :",
-        "steamUsername" => "Steam User Name :",
+        "steamname" => "Steam Name ",
+        "steamUsername" => "Steam User Name ",
         "gta5lock" => "GTA 5 File Location :",
         "fiveMlock" => "FiveM File Location : :",
         "steamlock" => "Steam File Location :",
@@ -16,7 +16,8 @@
         "news"    => "News",
         "up"    => "UP",
         "warning" => "Warning!",
-        "warningNotify" => "You have been permanently banned from this server! <br> Reason:"
+        "warningNotify" => "You have been permanently banned from this server! <br> Reason:",
+        "social"        => "Sosyal Medya"
     );
 ?>
  

@@ -74,6 +74,7 @@
         "logout"                    =>  "Çıkış Yap",
         "qrnotify"                  =>  "Mobil uygulamada oturum açmak için QR kodu kullanabilirsin",
         "tema4"                     =>  "Tema 4",
+        "tema5"                     =>  "Flat Tema",
         "createsetup"               =>  "Setup Oluştur",
         "onlineplayers"             =>  "Launcher'da Online Kişiler",
         "pcsysid"                   =>  "Pc Sistem ID ",
@@ -90,10 +91,17 @@
         "bCancel"                   =>  "Vazgeç",
         "onlineusers"               =>  "Online Oyuncular",
         "bannedplayers"             =>  "Yasaklı Oyuncular",
-        "banReason"                 =>  "Ceza Nedeni</br>",
+        "banReason"                 =>  "Ceza Nedeni",
         "delBan"                    =>  "Ban Kaldır",
         "delBandetail"              =>  " yüzden ceza almış. Bu cezayı kaldırmak istiyor musunuz?",
         "delSuccess"                =>  "Oyuncunun cezası başarılı şekilde kaldırıldı!",
-        "noBannedPlayers"           =>  "Yasaklı oyuncu yok!"   
+        "noBannedPlayers"           =>  "Yasaklı oyuncu yok!",
+        "updater"                   =>  "Updater Arka Plan",
+        "updaterplaceholder"        =>  "380x440 boyutunda gif veya resim dosyası için link girin." ,
+        "qrcodechange"              =>  "Kodu Sıfırla",
+        "customlauncher"            =>  "Özel Launcher Linki",
+        "customlauncherplace"       =>  "Launcherın yönlenmesini istediğiniz linki girin",
+        "patreon"                   =>  "Sistem tamamen ücretsiz ancak bu özelliği sadece bana destek olan kişiler kullanabilir. Destek olmak için aşağıda bulunan butonu kullanabilirsiniz.",
+        "fivemchecker"              =>  "Fivem Kontrolcüsü </br>Launcher açık olduğu süre boyunca arkaplanda oyuncunun sunucuya bağlı olup olmadığını kontrol etmek istiyor musunuz? Oyuncu sunucuya bağlı değilse otomatik launcher kendisini kapatacaktır."
     );
 ?>
