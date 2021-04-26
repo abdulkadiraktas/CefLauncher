@@ -102,6 +102,10 @@
         "customlauncher"            =>  "Özel Launcher Linki",
         "customlauncherplace"       =>  "Launcherın yönlenmesini istediğiniz linki girin",
         "patreon"                   =>  "Sistem tamamen ücretsiz ancak bu özelliği sadece bana destek olan kişiler kullanabilir. Destek olmak için aşağıda bulunan butonu kullanabilirsiniz.",
-        "fivemchecker"              =>  "Fivem Kontrolcüsü </br>Launcher açık olduğu süre boyunca arkaplanda oyuncunun sunucuya bağlı olup olmadığını kontrol etmek istiyor musunuz? Oyuncu sunucuya bağlı değilse otomatik launcher kendisini kapatacaktır."
+        "fivemchecker"              =>  "Fivem Kontrolcüsü </br>Launcher açık olduğu süre boyunca arkaplanda oyuncunun sunucuya bağlı olup olmadığını kontrol etmek istiyor musunuz? Oyuncu sunucuya bağlı değilse otomatik launcher kendisini kapatacaktır.",
+        "kayitollabel"              =>  "Kayıt Ol",
+        "kayitollabelplaceholder"   =>  "Kayıt Ol için yönlendirme linki girin.",
+        "buildnumber"               =>  "Build Numarası (CitizenFX.ini dosyasına yazılması gereken değer.)",
+        "updatechannel"             =>  "UpdateChannel (CitizenFX.ini dosyasına yazılması gereken değer.)",
     );
 ?>
