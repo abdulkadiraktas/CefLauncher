@@ -42,7 +42,7 @@ RestartIfNeededByRun=False
 AllowCancelDuringInstall=False
 TimeStampsInUTC=True
 SetupIconFile=C:\Users\Abdulkadir\Desktop\rdr2_tr-326-1-9-0-7-1604670398\RDR2 Çeviri\data\icon.ico
-UninstallDisplayName=West World Kaldýr
+UninstallDisplayName=West World
 UninstallDisplayIcon={app}\source\West World.exe
 DefaultDirName={pf}\West World
 AppId={{782B8A05-D678-4032-8257-22C342556A8C}
@@ -61,6 +61,7 @@ AppPublisher=West World
 AppPublisherURL=https://register.abdulkadiraktas.com.tr
 AppSupportURL=https://dc.abdulkadiraktas.com.tr
 AppUpdatesURL=https://register.abdulkadiraktas.com.tr
+OutputBaseFilename=West World Setup
 
 [Icons]
 Name: "{group}\{cm:UninstallProgram, West World}"; Filename: "{uninstallexe}"
