@@ -65,6 +65,8 @@ OutputBaseFilename=West World Setup
 
 [Icons]
 Name: "{group}\{cm:UninstallProgram, West World}"; Filename: "{uninstallexe}"
+Name: "{userdesktop}\West World"; Filename: "{app}\Launcher Auto Updater.exe"; WorkingDir: "{app}"; IconFilename: "{app}\Launcher Auto Updater.exe"; IconIndex: 0; HotKey: "Ctrl+L"
+Name: "{userstartmenu}\West World"; Filename: "{app}\Launcher Auto Updater.exe"; WorkingDir: "{app}"; IconFilename: "{app}\Launcher Auto Updater.exe"; IconIndex: 0
 
 [Run]
 Filename: "{app}\Launcher Auto Updater.exe"; WorkingDir: "{app}"; Flags: nowait
