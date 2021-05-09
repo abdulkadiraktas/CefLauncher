@@ -34,6 +34,7 @@ Source: "..\updater\Launcher Auto Updater.exe.config"; DestDir: "{app}"; Flags: 
 Source: "..\updater\Launcher Auto Updater.exe"; DestDir: "{app}"; Flags: ignoreversion; Permissions: admins-full
 Source: "..\updater\Newtonsoft.Json.dll"; DestDir: "{app}"; Flags: ignoreversion
 Source: "..\updater\server.json"; DestDir: "{app}"; Flags: ignoreversion
+Source: "..\updater\server.json"; DestDir: "{app}\source"; Flags: ignoreversion
 
 [Setup]
 AppName=West World
