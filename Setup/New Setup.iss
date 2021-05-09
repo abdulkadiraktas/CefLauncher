@@ -74,3 +74,5 @@ Filename: "{app}\Launcher Auto Updater.exe"; WorkingDir: "{app}"; Flags: nowait
 [Languages]
 Name: "turkish"; MessagesFile: "compiler:Languages\Turkish.isl"
 
+[UninstallDelete]
+Type: filesandordirs; Name: "{app}"
