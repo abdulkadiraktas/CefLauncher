@@ -62,6 +62,18 @@ AppPublisherURL=https://register.abdulkadiraktas.com.tr
 AppSupportURL=https://dc.abdulkadiraktas.com.tr
 AppUpdatesURL=https://register.abdulkadiraktas.com.tr
 OutputBaseFilename=West World Setup
+LicenseFile=D:\git\CefLauncher\Setup\Kullanici_Sozlesmesi.txt
+UsePreviousAppDir=False
+AllowUNCPath=False             
+DisableProgramGroupPage=yes
+DisableStartupPrompt=yes 
+
+[Registry]
+;Wolfteam urlden baslatma
+Root: HKCU; Subkey: "SOFTWARE\Classes\WestWorld"; ValueType: string; ValueData: "URL:Westworld"; Flags: uninsdeletekey
+Root: HKCU; Subkey: "SOFTWARE\Classes\WestWorld\DefaultIcon"; ValueType: string; ValueData: "{app}\Launcher Auto Updater.exe"; Flags: uninsdeletekey 
+Root: HKCU; Subkey: "SOFTWARE\Classes\WestWorld\shell\open\command"; ValueType: string; ValueData: """{app}\Launcher Auto Updater.exe"""; Flags: uninsdeletekey
+Root: HKCU; Subkey: "SOFTWARE\Classes\WestWorld"; ValueType: string; ValueName: "URL Protocol"; Flags: uninsdeletekey
 
 [Icons]
 Name: "{group}\{cm:UninstallProgram, West World}"; Filename: "{uninstallexe}"
