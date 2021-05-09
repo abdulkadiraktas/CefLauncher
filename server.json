@@ -1,0 +1,84 @@
+{
+  "ayarlar": [
+    {
+      "apikey": "2898d8-9e3222-0d9684-94a077-78f258",
+      "sunucuadi": "Kadir RP",
+      "lang": "tr",
+      "gtalock": "",
+      "steamlock": "",
+      "fivemlock": ""
+    },
+    {
+      "langtr": [
+        {
+          "fivemCheckMessageTitle": "Oyun Kontrolü",
+          "fivemCheckMessage": "1 dakika içerisinde sunucuya giriş yapmadığınız için launcher kapanacaktır.",
+          "adsFroward": "Reklam sayfasından kısa süre sonra yönlendirileceksiniz... Lütfen yönlendirmeyi bekleyin...",
+          "gtaFound": "GTA Bulundu!",
+          "steamFound": "Steam Bulundu!",
+          "fivemFound": "Oyun Bulundu!",
+          "exitMessage": "Programı Kapatmak İstediğinize Emin Misiniz? Programı kapatmanız durumunda Sunucu ile bağlantınız kapatılacaktır.",
+          "exitMessageTitle": "Emin Misiniz?",
+          "searchFilesNotify": "GTA, Steam, RedM ve Fivem dosya konumları taranıyor...",
+          "searchFilesTitleNotify": "Dosyalar taranıyor...",
+          "hiddennotifytitle": "Uygulama Gizlendi!",
+          "hiddennotify":  "Launcher arkaplanda çalışmaya devam ediyor. Launcher kapatılırsa sunucu ile bağlantınız kesilecektir! Launcher'ı başlatmak için icona çift tıklayın!"
+        }
+      ]
+    },
+    {
+      "langen": [
+        {
+          "fivemCheckMessageTitle": "FiveM Checker",
+          "fivemCheckMessage": "The launcher will close because you are not logged into the server within 1 minute.",
+          "adsFroward": "You will be redirected shortly after the advertisement page ... Please wait for redirect ...",
+          "gtaFound": "GTA Found!",
+          "steamFound": "Steam Found!",
+          "fivemFound": "FiveM Found!",
+          "exitMessage": "Are you sure you want to close the program? If you close the program, your FiveM connection will be closed.",
+          "exitMessageTitle": "Are you sure?",
+          "searchFilesNotify": "Scanning GTA, Steam and Fivem file locations ...",
+          "searchFilesTitleNotify": "Files scaning...",
+          "hiddennotifytitle": "Application Hidden!",
+          "hiddennotify": "Launcher arkaplanda çalışmaya devam ediyor. Launcher kapatılırsa sunucu ile bağlantınız kesilecektir!"
+        }
+      ]
+    },
+    {
+      "langfr": [
+        {
+          "fivemCheckMessageTitle": "FiveM Checker",
+          "fivemCheckMessage": "The launcher will close because you are not logged into the server within 1 minute.",
+          "adsFroward": "You will be redirected shortly after the advertisement page ... Please wait for redirect ...",
+          "gtaFound": "GTA Found!",
+          "steamFound": "Steam Found!",
+          "fivemFound": "FiveM Found!",
+          "exitMessage": "Are you sure you want to close the program? If you close the program, your FiveM connection will be closed.",
+          "exitMessageTitle": "Are you sure?",
+          "searchFilesNotify": "Scanning GTA, Steam and Fivem file locations ...",
+          "searchFilesTitleNotify": "Files scaning...",
+          "hiddennotifytitle": "Application Hidden!",
+          "hiddennotify": "Launcher arkaplanda çalışmaya devam ediyor. Launcher kapatılırsa sunucu ile bağlantınız kesilecektir!"
+        }
+      ]
+    },
+    {
+      "langvn": [
+        {
+          "fivemCheckMessageTitle": "FiveM Checker",
+          "fivemCheckMessage": "The launcher will close because you are not logged into the server within 1 minute.",
+          "adsFroward": "You will be redirected shortly after the advertisement page ... Please wait for redirect ...",
+          "gtaFound": "GTA Found!",
+          "steamFound": "Steam Found!",
+          "fivemFound": "FiveM Found!",
+          "exitMessage": "Are you sure you want to close the program? If you close the program, your FiveM connection will be closed.",
+          "exitMessageTitle": "Are you sure?",
+          "searchFilesNotify": "Scanning GTA, Steam and Fivem file locations ...",
+          "searchFilesTitleNotify": "Files scaning...",
+          "hiddennotifytitle": "Application Hidden!",
+          "hiddennotify": "Launcher arkaplanda çalışmaya devam ediyor. Launcher kapatılırsa sunucu ile bağlantınız kesilecektir!"
+        }
+      ]
+    }
+  ]
+}
