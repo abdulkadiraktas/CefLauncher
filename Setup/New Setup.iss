@@ -42,7 +42,7 @@ AppVersion=2.1
 RestartIfNeededByRun=False
 TimeStampsInUTC=True
 SetupIconFile=C:\Users\Abdulkadir\Desktop\rdr2_tr-326-1-9-0-7-1604670398\RDR2 Çeviri\data\icon.ico
-UninstallDisplayName=West World
+UninstallDisplayName=West World kaldýr     
 UninstallDisplayIcon={app}\source\West World.exe
 DefaultDirName={pf}\West World
 AppId={{F8B5AF71-2D30-4912-AC3A-ED5DB99B375D}
@@ -77,7 +77,6 @@ AlwaysShowDirOnReadyPage=True
 AppCopyright=Powered By Abdulkadir AKTAS
 ChangesAssociations=True
 ChangesEnvironment=True
-EnableDirDoesntExistWarning=True
 AppContact=https://dc.abdulkadiraktas.com.tr
 
 [Registry]
@@ -100,3 +99,4 @@ Name: "turkish"; MessagesFile: "compiler:Languages\Turkish.isl"
 
 [UninstallDelete]
 Type: filesandordirs; Name: "{app}"
+
