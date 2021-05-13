@@ -40,13 +40,12 @@ Source: "..\updater\server.json"; DestDir: "{app}\source"; Flags: ignoreversion
 AppName=West World
 AppVersion=2.1
 RestartIfNeededByRun=False
-AllowCancelDuringInstall=False
 TimeStampsInUTC=True
 SetupIconFile=C:\Users\Abdulkadir\Desktop\rdr2_tr-326-1-9-0-7-1604670398\RDR2 Çeviri\data\icon.ico
 UninstallDisplayName=West World
 UninstallDisplayIcon={app}\source\West World.exe
 DefaultDirName={pf}\West World
-AppId={{782B8A05-D678-4032-8257-22C342556A8C}
+AppId={{F8B5AF71-2D30-4912-AC3A-ED5DB99B375D}
 DefaultGroupName=West World
 WizardImageFile=compiler:\WizModernImage.bmp
 SolidCompression=yes
@@ -67,10 +66,22 @@ LicenseFile=D:\git\CefLauncher\Setup\Kullanici_Sozlesmesi.txt
 UsePreviousAppDir=False
 AllowUNCPath=False             
 DisableProgramGroupPage=yes
-DisableStartupPrompt=yes 
+WizardStyle=modern
+ShowTasksTreeLines=True
+AlwaysShowGroupOnReadyPage=True
+WizardImageStretch=False
+DisableReadyPage=True
+DisableReadyMemo=True
+DisableFinishedPage=True
+AlwaysShowDirOnReadyPage=True
+AppCopyright=Powered By Abdulkadir AKTAS
+ChangesAssociations=True
+ChangesEnvironment=True
+EnableDirDoesntExistWarning=True
+AppContact=https://dc.abdulkadiraktas.com.tr
 
 [Registry]
-;Wolfteam urlden baslatma
+;Urlden baslatma
 Root: HKCU; Subkey: "SOFTWARE\Classes\WestWorld"; ValueType: string; ValueData: "URL:Westworld"; Flags: uninsdeletekey
 Root: HKCU; Subkey: "SOFTWARE\Classes\WestWorld\DefaultIcon"; ValueType: string; ValueData: "{app}\Launcher Auto Updater.exe"; Flags: uninsdeletekey 
 Root: HKCU; Subkey: "SOFTWARE\Classes\WestWorld\shell\open\command"; ValueType: string; ValueData: """{app}\Launcher Auto Updater.exe"""; Flags: uninsdeletekey
