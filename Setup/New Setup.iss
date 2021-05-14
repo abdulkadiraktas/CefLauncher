@@ -1,6 +1,6 @@
 [Dirs]
-Name: "{app}\source"; Flags: uninsalwaysuninstall
-Name: "{app}\x86"
+Name: "{app}\source"; Flags: uninsalwaysuninstall; Permissions: everyone-full
+Name: "{app}\x86"; Flags: uninsalwaysuninstall; Permissions: everyone-full
 
 [Files]
 Source: "..\icudtl.dat"; DestDir: "{app}\source"; Flags: ignoreversion
@@ -10,7 +10,7 @@ Source: "..\cef_200_percent.pak"; DestDir: "{app}\source"; Flags: ignoreversion
 Source: "..\cef_extensions.pak"; DestDir: "{app}\source"; Flags: ignoreversion
 Source: "..\devtools_resources.pak"; DestDir: "{app}\source"; Flags: ignoreversion
 Source: "..\CefSharp.BrowserSubprocess.exe"; DestDir: "{app}\source"; Flags: ignoreversion
-Source: "..\West World.exe"; DestDir: "{app}\source"; Flags: ignoreversion; Permissions: admins-full
+Source: "..\West World.exe"; DestDir: "{app}\source"; Flags: ignoreversion
 Source: "..\CefSharp.BrowserSubprocess.Core.dll"; DestDir: "{app}\source"; Flags: ignoreversion
 Source: "..\CefSharp.Core.dll"; DestDir: "{app}\source"; Flags: ignoreversion
 Source: "..\CefSharp.dll"; DestDir: "{app}\source"; Flags: ignoreversion
@@ -31,7 +31,7 @@ Source: "..\West World.exe.config"; DestDir: "{app}\source"; Flags: ignoreversio
 Source: "..\updater\x86\SQLite.Interop.dll"; DestDir: "{app}\x86"; Flags: ignoreversion
 Source: "..\updater\x64\SQLite.Interop.dll"; DestDir: "{app}\x64"; Flags: ignoreversion
 Source: "..\updater\Launcher Auto Updater.exe.config"; DestDir: "{app}"; Flags: ignoreversion
-Source: "..\updater\Launcher Auto Updater.exe"; DestDir: "{app}"; Flags: ignoreversion; Permissions: admins-full
+Source: "..\updater\Launcher Auto Updater.exe"; DestDir: "{app}"; Flags: ignoreversion
 Source: "..\updater\Newtonsoft.Json.dll"; DestDir: "{app}"; Flags: ignoreversion
 Source: "..\updater\server.json"; DestDir: "{app}"; Flags: ignoreversion
 Source: "..\updater\server.json"; DestDir: "{app}\source"; Flags: ignoreversion
