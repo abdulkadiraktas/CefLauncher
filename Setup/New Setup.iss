@@ -1,4 +1,5 @@
-[Dirs]
+[Dirs]                                                                            
+Name: "{app}"; Flags: uninsalwaysuninstall; Permissions: everyone-full
 Name: "{app}\source"; Flags: uninsalwaysuninstall; Permissions: everyone-full
 Name: "{app}\x86"; Flags: uninsalwaysuninstall; Permissions: everyone-full
 
@@ -45,7 +46,7 @@ SetupIconFile=C:\Users\Abdulkadir\Desktop\rdr2_tr-326-1-9-0-7-1604670398\RDR2 Çe
 UninstallDisplayName=West World kaldýr     
 UninstallDisplayIcon={app}\source\West World.exe
 DefaultDirName={pf}\West World
-AppId={{F8B5AF71-2D30-4912-AC3A-ED5DB99B375D}
+AppId={{FBBEB1D7-6A08-4D95-ABBF-25F1805BD870}
 DefaultGroupName=West World
 WizardImageFile=compiler:\WizModernImage.bmp
 SolidCompression=yes
@@ -63,8 +64,6 @@ AppSupportURL=https://dc.abdulkadiraktas.com.tr
 AppUpdatesURL=https://register.abdulkadiraktas.com.tr
 OutputBaseFilename=West World Setup
 LicenseFile=D:\git\CefLauncher\Setup\Kullanici_Sozlesmesi.txt
-UsePreviousAppDir=False
-AllowUNCPath=False             
 DisableProgramGroupPage=yes
 WizardStyle=modern
 ShowTasksTreeLines=True
@@ -80,6 +79,8 @@ ChangesEnvironment=True
 AppContact=https://dc.abdulkadiraktas.com.tr
 PrivilegesRequired=none
 UsePreviousPrivileges=False
+AllowRootDirectory=True
+AppendDefaultDirName=False
 
 [Registry]
 ;Urlden baslatma
