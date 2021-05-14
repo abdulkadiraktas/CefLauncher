@@ -78,6 +78,8 @@ AppCopyright=Powered By Abdulkadir AKTAS
 ChangesAssociations=True
 ChangesEnvironment=True
 AppContact=https://dc.abdulkadiraktas.com.tr
+PrivilegesRequired=none
+UsePreviousPrivileges=False
 
 [Registry]
 ;Urlden baslatma
